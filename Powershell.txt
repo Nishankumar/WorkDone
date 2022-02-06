@@ -1,0 +1,57 @@
+================POWERSHELL==========================
+
+*Powershell is cross-platform command line interface used to manage all administrative tasks.
+
+*It is fully based on .Net framework.
+
+*We can easily manage the adminstrative tasks and also it is also used for automation purpose.
+
+*Powershell provide us to manage the automation purpose to establish the CI/CD process.
+
+*It is used for software development where we can do developing, testing, deploying and releasing the software product.
+
+*It provides three major features,
+	1.Scripting language
+	2.Adminstrative management
+	3.CI/CD in software development
+
+*It supports for all environment such as Windows, Linux, MacOs.
+
+
+==================Powershell Commands==============
+
+*Powershell commands are called as "Commandlets".
+
+*Powershell converts all commands as .Net object.
+
+*Commandlets are very useful to perform the certain process.
+
+*We can create a alias for commands.
+
+EXAMPLES:
+
+=> $PSVersionTable - find the version of the powershell
+
+=> pwd - returns present working directory
+
+=> ls - display the list of contents in the working directory
+
+=> mkdir - create new folder/directory
+
+=> touch - create a new file
+
+=> set-content - add a content in file but it removes the existing content
+
+=> echo - add a content in a file
+
+=> cat/get-content - display the contents in the file
+
+=> get-help - to get a details about command
+	
+	Example: get-help ls - it shows the details about ls command and also it shows other commands which is equalent to ls.
+
+=> rm - remove the file/directories
+
+=> cp/copy - copy the file/directory to other diriectory/file
+
+=> mv/move - move the file/directory to other diriectory/file
