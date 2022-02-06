@@ -4,7 +4,7 @@
 
 *It is fully based on .Net framework.
 
-*We can easily manage the adminstrative tasks and also it is also used for automation purpose.
+*We can easily manage the adminstrative tasks and it is also used for automation purpose.
 
 *Powershell provide us to manage the automation purpose to establish the CI/CD process.
 
